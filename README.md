@@ -1,1 +1,1 @@
-# -Multi-Modal-Edge-Detection-for-Autonomous-Driving
+# Multi-Modal-Edge-Detection-for-Autonomous-Driving
